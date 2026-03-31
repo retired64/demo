@@ -1,2 +1,2 @@
 # demo
-Pruebas de desarrollo desde Andeoid
+Pruebas de desarrollo desde Android
